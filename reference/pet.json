@@ -158,9 +158,9 @@
         "x-examples": {
           "example-1": [
             {
-              "id": 0,
-              "name": "string",
-              "tag": "string"
+              "id": 1,
+              "name": "cane",
+              "tag": "bau"
             }
           ]
         }
